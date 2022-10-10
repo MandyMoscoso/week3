@@ -19,7 +19,6 @@ public class MovieController
 {
     @Autowired
     private BestMovieService bestMovieService;
-
     @Autowired
     private SessionFactory sessionFactory;
 

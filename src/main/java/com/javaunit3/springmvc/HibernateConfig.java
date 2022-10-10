@@ -16,7 +16,6 @@ public class HibernateConfig
                 .addAnnotatedClass(MovieEntity.class)
                 .addAnnotatedClass(VoteEntity.class)
                 .buildSessionFactory();
-
         return factory;
     }
 }

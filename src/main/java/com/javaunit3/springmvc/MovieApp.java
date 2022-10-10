@@ -7,7 +7,6 @@ import org.springframework.context.annotation.ComponentScan;
 public class MovieApp
 {
     public static void main(String[] args) {
-
         AnnotationConfigApplicationContext applicationContext =
                 new AnnotationConfigApplicationContext(MovieApp.class);
 

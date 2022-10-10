@@ -1,2 +1,3 @@
 application.properties
 hibernate.cfg.xml
+log.txt
